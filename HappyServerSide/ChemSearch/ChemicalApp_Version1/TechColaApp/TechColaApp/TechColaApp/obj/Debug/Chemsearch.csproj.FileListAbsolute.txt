@@ -1,0 +1,6 @@
+C:\Users\m1008643\Desktop\Happy\Happy_v0.1\apps\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\bin\TechColaApp.dll.config
+C:\Users\m1008643\Desktop\Happy\Happy_v0.1\apps\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\bin\TechColaApp.dll
+C:\Users\m1008643\Desktop\Happy\Happy_v0.1\apps\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\bin\TechColaApp.pdb
+C:\Users\m1008643\Desktop\Happy\Happy_v0.1\apps\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\obj\Debug\TechColaApp.dll
+C:\Users\m1008643\Desktop\Happy\Happy_v0.1\apps\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\obj\Debug\TechColaApp.pdb
+C:\Users\m1008643\Desktop\Happy\Happy_v0.1\apps\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\obj\Debug\Chemsearch.csprojResolveAssemblyReference.cache

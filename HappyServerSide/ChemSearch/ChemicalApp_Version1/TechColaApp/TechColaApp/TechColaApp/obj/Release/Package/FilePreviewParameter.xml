@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="chemicalsearch" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\m1008643\\Desktop\\Happy\\Happy_v0\.1\\apps\\ChemSearch\\ChemicalApp_Version1\\TechColaApp\\TechColaApp\\TechColaApp\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\m1008643\\Desktop\\Happy\\Happy_v0\.1\\apps\\ChemSearch\\ChemicalApp_Version1\\TechColaApp\\TechColaApp\\TechColaApp\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="ApplicationServicesDB-Web.config Connection String" description="" value="Data Source=b2md11797\sqlexpress;Initial Catalog=ChemicalsDB;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\m1008643\\Desktop\\Happy\\Happy_v0\.1\\apps\\ChemSearch\\ChemicalApp_Version1\\TechColaApp\\TechColaApp\\TechColaApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationServicesDB']/@connectionString" />
+  </parameter>
+</parameters>

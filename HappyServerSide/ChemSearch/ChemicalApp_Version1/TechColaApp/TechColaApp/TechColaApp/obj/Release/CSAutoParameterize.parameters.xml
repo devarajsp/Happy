@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ApplicationServicesDB-Web.config Connection String" description="ApplicationServicesDB Connection String used in web.config by the application to access the database." defaultValue="Data Source=b2md11797\sqlexpress;Initial Catalog=ChemicalsDB;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\m1008643\\Desktop\\Happy\\Happy_v0\.1\\apps\\ChemSearch\\ChemicalApp_Version1\\TechColaApp\\TechColaApp\\TechColaApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationServicesDB']/@connectionString" />
+  </parameter>
+</parameters>

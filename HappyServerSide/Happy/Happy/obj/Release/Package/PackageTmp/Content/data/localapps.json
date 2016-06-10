@@ -1,0 +1,1 @@
+var localappslist = '[{"name" : "quiz", "path" : "data/apps/quiz"},{"name" : "test", "path" : "data/apps/test"}]';

@@ -1,0 +1,1867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChemicalsData>
+ <ArrayOfChemicals xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <Chemicals>
+     <Id>1</Id>
+     <Name>Phosphoric Acid</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927393</URL>
+     <HealthHazard_Value>3</HealthHazard_Value>
+     <FireHazard_Value>0</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>2</Id>
+     <Name>Potassium Bisulfate</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927570</URL>
+     <HealthHazard_Value>3</HealthHazard_Value>
+     <FireHazard_Value>0</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>3</Id>
+     <Name>Potassium Nitrate</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927232</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>0</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>4</Id>
+     <Name>Saccharin</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9924849</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>5</Id>
+     <Name>Wheat Gluten</Name>
+     <URL>http://www.bridgewellresources.com/images/content/docs/Vital-Wheat-Gluten-MSDS_BWR.pdf</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>2</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>6</Id>
+     <Name>Calcium Carbonate</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927119</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>0</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>7</Id>
+     <Name>Guar Gum</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927183</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>9</Id>
+     <Name>Acidifying Agent 330</Name>
+     <URL>http://www.mbm.net.au/health/296-385.htm</URL>
+     <HealthHazard_Value>-1</HealthHazard_Value>
+     <FireHazard_Value>-1</FireHazard_Value>
+     <ReactivityHazard_Value>-1</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>10</Id>
+     <Name>Potassium Chloride</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927402</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>0</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>11</Id>
+     <Name>Color 150d</Name>
+     <URL>http://www.mbm.net.au/health/100-181.htm</URL>
+     <HealthHazard_Value>-1</HealthHazard_Value>
+     <FireHazard_Value>-1</FireHazard_Value>
+     <ReactivityHazard_Value>-1</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>12</Id>
+     <Name>Raising Agent 500 ii</Name>
+     <URL>http://www.mbm.net.au/health/500-585.htm</URL>
+     <HealthHazard_Value>-1</HealthHazard_Value>
+     <FireHazard_Value>-1</FireHazard_Value>
+     <ReactivityHazard_Value>-1</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>13</Id>
+     <Name>Preservatives 202</Name>
+     <URL>http://mbm.net.au/health/200-290.htm</URL>
+     <HealthHazard_Value>-1</HealthHazard_Value>
+     <FireHazard_Value>-1</FireHazard_Value>
+     <ReactivityHazard_Value>-1</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>14</Id>
+     <Name>Emulsifiers 471</Name>
+     <URL>http://www.mbm.net.au/health/400-495.htm</URL>
+     <HealthHazard_Value>-1</HealthHazard_Value>
+     <FireHazard_Value>-1</FireHazard_Value>
+     <ReactivityHazard_Value>-1</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>15</Id>
+     <Name>Sorbitol</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9925062</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>16</Id>
+     <Name>Sodium Lauryl Sulfate</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9925002</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>17</Id>
+     <Name>Sodium Fluoride</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927595</URL>
+     <HealthHazard_Value>3</HealthHazard_Value>
+     <FireHazard_Value>0</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>18</Id>
+     <Name>Sodium Saccharin</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9925032</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>19</Id>
+     <Name>Cocamidopropyl Betaine</Name>
+     <URL>http://www.makingcosmetics.com/msds1/msds-cocamidopropyl-betaine.pdf</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>20</Id>
+     <Name>Polyethylene Glycol 600</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9926621</URL>
+     <HealthHazard_Value>0</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>21</Id>
+     <Name>Tetrasodium Pyrophosphate</Name>
+     <URL>http://www.oxychemicals.com.vn/attachments/095_TSPP.pdf</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>0</FireHazard_Value>
+     <ReactivityHazard_Value>-1</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>22</Id>
+     <Name>Trisodium Phosphate</Name>
+     <URL>http://greenhouse.ucdavis.edu/pest/fmsds/Trisodium%20phosphate.pdf</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>0</FireHazard_Value>
+     <ReactivityHazard_Value>-1</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>24</Id>
+     <Name>Benzyl Alcohol</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927099</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>25</Id>
+     <Name>Sodium Monofluorophosphate</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9925012</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>0</FireHazard_Value>
+     <ReactivityHazard_Value>1</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>26</Id>
+     <Name>Glycerin</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927350</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>27</Id>
+     <Name>Xanthan Gum</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927645</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>29</Id>
+     <Name>Sodium Hydroxide</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9924997</URL>
+     <HealthHazard_Value>3</HealthHazard_Value>
+     <FireHazard_Value>0</FireHazard_Value>
+     <ReactivityHazard_Value>1</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>30</Id>
+     <Name>Caramel Color</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9923300</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>31</Id>
+     <Name>Caffeine</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927475</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>32</Id>
+     <Name>Aspartame</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9922975</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>33</Id>
+     <Name>Potassium Benzoate</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9925532</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>34</Id>
+     <Name>Citric Acid</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9923494</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>35</Id>
+     <Name>Phenylalanine</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9926494</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>36</Id>
+     <Name>Maltodextrin</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9924569</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>37</Id>
+     <Name>Sodium Acetate</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9924952</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>38</Id>
+     <Name>Acetic Acid</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9922769</URL>
+     <HealthHazard_Value>3</HealthHazard_Value>
+     <FireHazard_Value>2</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>39</Id>
+     <Name>Monosodium Glutamate</Name>
+     <URL>http://east.cherryhill.k12.nj.us/msds/M/Monosodium%20Glutamate.pdf?</URL>
+     <HealthHazard_Value>2</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>-1</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>40</Id>
+     <Name>Calcium Lactate</Name>
+     <URL>http://www.kraftchemical.com/media/24433/calcium%20lacate%20msds.pdf</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>0</FireHazard_Value>
+     <ReactivityHazard_Value>-1</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>41</Id>
+     <Name>Levulose</Name>
+     <URL>http://www.sciencelab.com/msds.php?msdsId=9927537</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+   <Chemicals>
+     <Id>42</Id>
+     <Name>D Glucose</Name>
+     <URL>https://www.fishersci.ca/viewmsds.do?catNo=AC410950050</URL>
+     <HealthHazard_Value>1</HealthHazard_Value>
+     <FireHazard_Value>1</FireHazard_Value>
+     <ReactivityHazard_Value>0</ReactivityHazard_Value>
+     <SpecialHazard_Value>-1</SpecialHazard_Value>
+   </Chemicals>
+ </ArrayOfChemicals>
+ <ArrayOfChemicalProperties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <ChemicalProperties>
+     <Id>1</Id>
+     <Chemical_Id>1</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Very hazardous in case of skin contact (irritant), of eye contact (irritant), of ingestion, . Hazardous in case of skin contact (corrosive, permeator), of eye contact (corrosive). Slightly hazardous in case of inhalation (lung sensitizer). Liquid or spray mist may produce tissue damage particularly on mucous membranes of eyes, mouth and respiratory tract. Skin contact may produce burns. Inhalation of the spray mist may produce severe irritation of respiratory tract, characterized by coughing, choking, or shortness of breath. Severe over-exposure can result in death. Inflammation of the eye is characterized by redness, watering, and itching. Skin inflammation is characterized by itching, scaling, reddening, or, occasionally, blistering.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>2</Id>
+     <Chemical_Id>1</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>The substance may be toxic to blood, liver, skin, eyes, bone marrow. Repeated p. 2 or prolonged exposure to the substance can produce target organs damage. Repeated or prolonged contact with spray mist may produce chronic eye irritation and severe skin irritation. Repeated or prolonged exposure to spray mist may produce respiratory tract irritation leading to frequent attacks of bronchial infection. Repeated exposure to a highly toxic material may produce general deterioration of health by an accumulation in one or many human organs.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>3</Id>
+     <Chemical_Id>1</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Acidic</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>4</Id>
+     <Chemical_Id>1</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Easily soluble in hot water. Soluble in cold water.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>5</Id>
+     <Chemical_Id>1</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>May cause damage to the following organs: blood, liver, skin, eyes, bone marrow.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>6</Id>
+     <Chemical_Id>1</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Extremely hazardous in case of inhalation (lung corrosive). Very hazardous in case of skin contact (irritant), of ingestion, . Hazardous in case of skin contact (corrosive, permeator), of eye contact (corrosive).</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>7</Id>
+     <Chemical_Id>1</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>8</Id>
+     <Chemical_Id>1</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>9</Id>
+     <Chemical_Id>1</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>10</Id>
+     <Chemical_Id>1</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>11</Id>
+     <Chemical_Id>2</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Very hazardous in case of skin contact (irritant), of eye contact (irritant), of ingestion. Hazardous in case of skin contact (corrosive), of eye contact (corrosive), of inhalation. The amount of tissue damage depends on length of contact. Eye contact can result in corneal damage or blindness. Skin contact can produce inflammation and blistering. Inhalation of dust will produce irritation to gastro-intestinal or respiratory tract, characterized by burning, sneezing and coughing. Severe overexposure can produce lung damage, choking, unconsciousness or death. Inflammation of the eye is characterized by redness, watering, and itching. Skin inflammation is characterized by itching, scaling, reddening, or, occasionally, blistering.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>12</Id>
+     <Chemical_Id>2</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Repeated exposure of the eyes to a low level of dust can produce eye irritation. Repeated skin exposure can produce local skin destruction, or dermatitis. Repeated inhalation of dust can produce varying degree of respiratory irritation or lung damage.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>13</Id>
+     <Chemical_Id>2</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>14</Id>
+     <Chemical_Id>2</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Soluble in cold water. Solubility in water: 56 g/100 g water</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>15</Id>
+     <Chemical_Id>2</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>16</Id>
+     <Chemical_Id>2</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Very hazardous in case of skin contact (irritant), of ingestion. Hazardous in case of skin contact (corrosive), of eye contact (corrosive), of inhalation (lung corrosive).</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>17</Id>
+     <Chemical_Id>2</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>18</Id>
+     <Chemical_Id>2</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>19</Id>
+     <Chemical_Id>2</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>20</Id>
+     <Chemical_Id>2</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>21</Id>
+     <Chemical_Id>3</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Hazardous in case of skin contact (irritant), of eye contact (irritant), of ingestion, of inhalation (lung irritant). Prolonged exposure may result in skin burns and ulcerations. Over-exposure by inhalation may cause respiratory irritation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>22</Id>
+     <Chemical_Id>3</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>The substance may be toxic to blood, kidneys, central nervous system (CNS). Repeated or prolonged exposure to the substance can produce target organs damage.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>23</Id>
+     <Chemical_Id>3</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>24</Id>
+     <Chemical_Id>3</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Easily soluble in hot water. Soluble in cold water. Insoluble in diethyl ether. Soluble in liquid ammonia, glycerin, and absolute alcohol. Solubility in water: 1g/2.8 ml water @ 25 C.; 13.3 g/100 ml water @ 0 C; 1g/0.5 ml boiling water.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>25</Id>
+     <Chemical_Id>3</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>May cause damage to the following organs: blood, kidneys, central nervous system (CNS).</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>26</Id>
+     <Chemical_Id>3</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Hazardous in case of skin contact (irritant), of ingestion, of inhalation (lung irritant).</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>27</Id>
+     <Chemical_Id>3</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>28</Id>
+     <Chemical_Id>3</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>29</Id>
+     <Chemical_Id>3</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>30</Id>
+     <Chemical_Id>3</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>31</Id>
+     <Chemical_Id>4</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Hazardous in case of ingestion. Slightly hazardous in case of skin contact (irritant), of eye contact (irritant), of inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>32</Id>
+     <Chemical_Id>4</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Repeated or prolonged exposure is not known to aggravate medical condition.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>33</Id>
+     <Chemical_Id>4</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>34</Id>
+     <Chemical_Id>4</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Very slightly soluble in cold water</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>35</Id>
+     <Chemical_Id>4</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>36</Id>
+     <Chemical_Id>4</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Hazardous in case of ingestion. Slightly hazardous in case of skin contact (irritant), of inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>37</Id>
+     <Chemical_Id>4</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>38</Id>
+     <Chemical_Id>4</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>39</Id>
+     <Chemical_Id>4</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>41</Id>
+     <Chemical_Id>4</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>42</Id>
+     <Chemical_Id>5</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Not Applicable</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>43</Id>
+     <Chemical_Id>5</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Not Applicable</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>44</Id>
+     <Chemical_Id>5</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not Applicable</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>45</Id>
+     <Chemical_Id>5</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Soluble in Water</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>46</Id>
+     <Chemical_Id>5</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not Applicable</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>47</Id>
+     <Chemical_Id>5</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Rubbing may cause mechanical skin irritation</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>48</Id>
+     <Chemical_Id>5</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not Applicable</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>49</Id>
+     <Chemical_Id>5</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not Applicable</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>50</Id>
+     <Chemical_Id>5</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not Applicable</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>51</Id>
+     <Chemical_Id>5</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not Applicable</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>52</Id>
+     <Chemical_Id>6</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>NULLHazardous in case of eye contact (irritant). Slightly hazardous in case of skin contact (irritant), of ingestion, of inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>53</Id>
+     <Chemical_Id>6</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>The substance may be toxic to kidneys. Repeated or prolonged exposure to the substance can produce target organs damage.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>54</Id>
+     <Chemical_Id>6</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>55</Id>
+     <Chemical_Id>6</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Very slightly soluble in cold water. Soluble in dilute acid. Insoluble in alcohol.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>56</Id>
+     <Chemical_Id>6</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>May cause damage to the following organs: kidneys.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>57</Id>
+     <Chemical_Id>6</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Slightly hazardous in case of skin contact (irritant), ingestion, inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>58</Id>
+     <Chemical_Id>6</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>59</Id>
+     <Chemical_Id>6</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>60</Id>
+     <Chemical_Id>6</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>61</Id>
+     <Chemical_Id>6</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>62</Id>
+     <Chemical_Id>7</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Slightly hazardous in case of skin contact (irritant), of eye contact (irritant), ingestion,inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>63</Id>
+     <Chemical_Id>7</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Repeated or prolonged exposure is not known to aggravate medical condition.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>64</Id>
+     <Chemical_Id>7</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>65</Id>
+     <Chemical_Id>7</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>66</Id>
+     <Chemical_Id>7</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>67</Id>
+     <Chemical_Id>7</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Slightly hazardous in case of skin contact (irritant), ingestion, inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>68</Id>
+     <Chemical_Id>7</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>69</Id>
+     <Chemical_Id>7</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>70</Id>
+     <Chemical_Id>7</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>71</Id>
+     <Chemical_Id>7</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>84</Id>
+     <Chemical_Id>9</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>85</Id>
+     <Chemical_Id>9</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>86</Id>
+     <Chemical_Id>9</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>87</Id>
+     <Chemical_Id>9</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>88</Id>
+     <Chemical_Id>9</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>89</Id>
+     <Chemical_Id>9</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>90</Id>
+     <Chemical_Id>9</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>91</Id>
+     <Chemical_Id>9</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>92</Id>
+     <Chemical_Id>9</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>93</Id>
+     <Chemical_Id>9</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>94</Id>
+     <Chemical_Id>10</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Slightly hazardous in case of skin contact (irritant), of eye contact (irritant),ingestion,inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>95</Id>
+     <Chemical_Id>10</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>The substance may be toxic to blood, cardiovascular system. Repeated or prolonged exposure to the substance can produce target organs damage.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>96</Id>
+     <Chemical_Id>10</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>97</Id>
+     <Chemical_Id>10</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Soluble in cold water, hot water. Very slightly soluble in methanol, n-octanol.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>98</Id>
+     <Chemical_Id>10</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>May cause damage to the following organs: blood, cardiovascular system.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>99</Id>
+     <Chemical_Id>10</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Slightly hazardous in case of skin contact (irritant), of ingestion, of inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>100</Id>
+     <Chemical_Id>10</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>101</Id>
+     <Chemical_Id>10</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Mutagenic for mammalian somatic cells. Mutagenic for bacteria and/or yeast.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>102</Id>
+     <Chemical_Id>10</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>103</Id>
+     <Chemical_Id>10</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>104</Id>
+     <Chemical_Id>11</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Not applicable.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>105</Id>
+     <Chemical_Id>11</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Not applicable.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>106</Id>
+     <Chemical_Id>11</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not applicable.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>107</Id>
+     <Chemical_Id>11</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Not applicable.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>108</Id>
+     <Chemical_Id>11</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not applicable.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>109</Id>
+     <Chemical_Id>11</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Some caramels may damage genes, slow down growth,cause enlargement of the intestines and kidneys and may destroy vitamin B.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>110</Id>
+     <Chemical_Id>11</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>111</Id>
+     <Chemical_Id>11</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>112</Id>
+     <Chemical_Id>11</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>113</Id>
+     <Chemical_Id>11</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>114</Id>
+     <Chemical_Id>12</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>115</Id>
+     <Chemical_Id>12</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>116</Id>
+     <Chemical_Id>12</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>3.4</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>117</Id>
+     <Chemical_Id>12</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>118</Id>
+     <Chemical_Id>12</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>119</Id>
+     <Chemical_Id>12</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Inhalation of dust may cause respiratory tract irritation. Product may cause eye and skin</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>120</Id>
+     <Chemical_Id>12</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>121</Id>
+     <Chemical_Id>12</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>122</Id>
+     <Chemical_Id>12</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>123</Id>
+     <Chemical_Id>12</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>124</Id>
+     <Chemical_Id>13</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>125</Id>
+     <Chemical_Id>13</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>126</Id>
+     <Chemical_Id>13</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>127</Id>
+     <Chemical_Id>13</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>128</Id>
+     <Chemical_Id>13</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>129</Id>
+     <Chemical_Id>13</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Damages tooth enamel. Most citric acid is produced from corn, manufacturers do not always take out the protein which can be hydrolysed and create MSG (621) causing reactions in MSG-sensitive people.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>130</Id>
+     <Chemical_Id>13</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>132</Id>
+     <Chemical_Id>13</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>133</Id>
+     <Chemical_Id>13</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>134</Id>
+     <Chemical_Id>13</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>135</Id>
+     <Chemical_Id>14</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>136</Id>
+     <Chemical_Id>14</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>137</Id>
+     <Chemical_Id>14</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>138</Id>
+     <Chemical_Id>14</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>139</Id>
+     <Chemical_Id>14</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>140</Id>
+     <Chemical_Id>14</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>141</Id>
+     <Chemical_Id>14</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>142</Id>
+     <Chemical_Id>14</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>143</Id>
+     <Chemical_Id>14</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>144</Id>
+     <Chemical_Id>14</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>145</Id>
+     <Chemical_Id>15</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Hazardous in case of eye contact (irritant), of ingestion. Slightly hazardous in case of skin contact (irritant), of inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>146</Id>
+     <Chemical_Id>15</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Repeated or prolonged exposure is not known to aggravate medical condition</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>147</Id>
+     <Chemical_Id>15</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>148</Id>
+     <Chemical_Id>15</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Easily soluble in cold water, hot water.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>149</Id>
+     <Chemical_Id>15</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>150</Id>
+     <Chemical_Id>15</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Hazardous in case of ingestion. Slightly hazardous in case of skin contact (irritant), of inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>151</Id>
+     <Chemical_Id>15</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>152</Id>
+     <Chemical_Id>15</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>153</Id>
+     <Chemical_Id>15</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>155</Id>
+     <Chemical_Id>15</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>156</Id>
+     <Chemical_Id>16</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Hazardous in case of skin contact (irritant), of eye contact (irritant), of ingestion, of inhalation. Slightly hazardous in case of skin contact (sensitizer). Severe over-exposure can result in death.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>157</Id>
+     <Chemical_Id>16</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>The substance may be toxic to skin. Repeated or prolonged exposure to the substance can produce target organs damage.Repeated exposure to a highly toxic material may produce general deterioration of health by an accumulation in one or many human organs.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>158</Id>
+     <Chemical_Id>16</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>159</Id>
+     <Chemical_Id>16</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Soluble in cold water, hot water. Solubility in water: 1g/10 ml water</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>160</Id>
+     <Chemical_Id>16</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>MUTAGENIC EFFECTS: Mutagenic for bacteria and/or yeast. May cause damage to the following organs: skin.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>161</Id>
+     <Chemical_Id>16</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Hazardous in case of skin contact (irritant), of ingestion, of inhalation. Slightly hazardous in case of skin contact (sensitizer).</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>162</Id>
+     <Chemical_Id>16</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>163</Id>
+     <Chemical_Id>16</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Mutagenic for bacteria and/or yeast.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>164</Id>
+     <Chemical_Id>16</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>165</Id>
+     <Chemical_Id>16</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>167</Id>
+     <Chemical_Id>17</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>The substance may be toxic to skin. Repeated or prolonged exposure to the substance can produce target organs damage. Repeated exposure to a highly toxic material may produce general deterioration of health by an accumulation in one or many human organs.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>168</Id>
+     <Chemical_Id>17</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>The substance may be toxic to kidneys, lungs,</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>169</Id>
+     <Chemical_Id>17</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>170</Id>
+     <Chemical_Id>17</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Soluble in cold water, hot water. Solubility in water: 5g/100 ml @ 100 deg. C, 4.3 g/100 @ 25 deg C, 4.0 g/100 ml @ 15 deg.C. Very highly soluble in alcohol.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>171</Id>
+     <Chemical_Id>17</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>CARCINOGENIC EFFECTS: A4 (Not classifiable for human or animal.) by ACGIH, 3 (Not classifiable for human.) by IARC. MUTAGENIC EFFECTS: Mutagenic for mammalian somatic cells. Mutagenic for bacteria and/or yeast. May cause damage to the following organs: kidneys, lungs, the nervous system, heart, gastrointestinal tract, cardiovascular system, bones, teeth.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>172</Id>
+     <Chemical_Id>17</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Hazardous in case of skin contact (irritant), of eye contact (corrosive), of ingestion, of inhalation. Slightly hazardous in case of</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>173</Id>
+     <Chemical_Id>17</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>A4 (Not classifiable for human or animal.) by ACGIH, 3 (Not classifiable for human.) by IARC.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>174</Id>
+     <Chemical_Id>17</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Mutagenic for mammalian somatic cells. Mutagenic for bacteria and/or yeast</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>175</Id>
+     <Chemical_Id>17</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>176</Id>
+     <Chemical_Id>17</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>177</Id>
+     <Chemical_Id>18</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Slightly hazardous in case of skin contact (irritant), of eye contact (irritant), of ingestion, of inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>178</Id>
+     <Chemical_Id>18</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Repeated or prolonged exposure is not known to aggravate medical condition.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>179</Id>
+     <Chemical_Id>18</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>180</Id>
+     <Chemical_Id>18</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Soluble in cold water, hot water.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>181</Id>
+     <Chemical_Id>18</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>182</Id>
+     <Chemical_Id>18</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Slightly hazardous in case of skin contact (irritant), of ingestion, of inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>183</Id>
+     <Chemical_Id>18</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>184</Id>
+     <Chemical_Id>18</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>185</Id>
+     <Chemical_Id>18</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>186</Id>
+     <Chemical_Id>18</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>187</Id>
+     <Chemical_Id>19</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>May cause irritation to skin, eyes, and respiratory system.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>188</Id>
+     <Chemical_Id>19</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>189</Id>
+     <Chemical_Id>19</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>5 - 6 (10% solution)</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>190</Id>
+     <Chemical_Id>19</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Soluble</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>191</Id>
+     <Chemical_Id>19</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>May cause irritation to skin, eyes, and respiratory system.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>192</Id>
+     <Chemical_Id>19</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Do not ingest; product may cause gastrointestinal</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>193</Id>
+     <Chemical_Id>19</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>194</Id>
+     <Chemical_Id>19</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>195</Id>
+     <Chemical_Id>19</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>196</Id>
+     <Chemical_Id>19</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>197</Id>
+     <Chemical_Id>20</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Potential Acute Health Effects: Slightly hazardous in case of skin contact (irritant, permeator), of eye contact (irritant),ingestion,inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>198</Id>
+     <Chemical_Id>20</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>Repeated or prolonged exposure is not known to aggravate medical condition.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>199</Id>
+     <Chemical_Id>20</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>6 [Acidic.]</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>200</Id>
+     <Chemical_Id>20</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Easily soluble in cold water, hot water. Soluble in methanol, diethyl ether.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>201</Id>
+     <Chemical_Id>20</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>Not Available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>202</Id>
+     <Chemical_Id>20</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Slightly hazardous in case of skin contact (irritant, permeator), of ingestion, of inhalation.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>203</Id>
+     <Chemical_Id>20</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>204</Id>
+     <Chemical_Id>20</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>206</Id>
+     <Chemical_Id>20</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>207</Id>
+     <Chemical_Id>20</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>208</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>CAUSES EYE IRRITATION. MAY CAUSE SKIN AND RESPIRATORY TRACT</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>209</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>This product does not contain any ingredient designated by IARC, NTP, ACGIH or OSHA as probable</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>210</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>10.2 at 1 wt/wt%.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>211</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>soluble 5 wt/wt% at 25 C (77 F).</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>212</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>CAUSES EYE IRRITATION. MAY CAUSE SKIN AND RESPIRATORY TRACT</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>213</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>This product does not contain any ingredient designated by IARC, NTP, ACGIH or OSHA as probable</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>214</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>215</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>216</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>217</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>218</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>May cause moderate skin burns. May cause severe irritation, especially if skin is moist or wet. May cause eye burns.May cause burns of the mouth, throat and stomach.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>219</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>May cause permanent corneal injury. </Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>220</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>11.8 (1% Solution @ 25oC)</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>221</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Soluble</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>222</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>May cause moderate skin burns. May cause severe irritation,</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>223</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>Inhalation of product may aggravate existing chronic respiratory problems such as asthma, emphysema or bronchitis. Skin contact may aggravate</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>224</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not listed with IARC, NTP, ACGIH, or OSHA as a carcinogen.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>225</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>226</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>227</Id>
+     <Chemical_Id>22</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>229</Id>
+     <Chemical_Id>21</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Harmful if ingested. May cause burns to mouth and esophagus, nausea, vomiting, diarrhea.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>230</Id>
+     <Chemical_Id>21</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>This product does not contain any ingredient designated by IARC, NTP, ACGIH or OSHA as probable or suspected human carcinogens.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>231</Id>
+     <Chemical_Id>21</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>10.2 at 1 wt/wt%.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>232</Id>
+     <Chemical_Id>21</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>soluble 5 wt/wt% at 25 C (77 F).</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>233</Id>
+     <Chemical_Id>21</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>This product does not contain any substances that are considered by OSHA, NTP, IARC or ACGIH to</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>234</Id>
+     <Chemical_Id>21</Chemical_Id>
+     <Property_Id>6</Property_Id>
+     <Description>This product does not contain any ingredient designated by IARC, NTP, ACGIH or OSHA as probable or suspected human carcinogens.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>235</Id>
+     <Chemical_Id>21</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>236</Id>
+     <Chemical_Id>21</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>237</Id>
+     <Chemical_Id>21</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>238</Id>
+     <Chemical_Id>21</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not Available</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>239</Id>
+     <Chemical_Id>24</Chemical_Id>
+     <Property_Id>1</Property_Id>
+     <Description>Hazardous in case of skin contact (irritant), of eye contact (irritant), of inhalation. Slightly hazardous in case of skin contact (permeator), of ingestion.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>240</Id>
+     <Chemical_Id>24</Chemical_Id>
+     <Property_Id>2</Property_Id>
+     <Description>The substance may be toxic to liver, central nervous system (CNS). Repeated or prolonged exposure to the substance can produce target organs damage.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>241</Id>
+     <Chemical_Id>24</Chemical_Id>
+     <Property_Id>3</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>242</Id>
+     <Chemical_Id>24</Chemical_Id>
+     <Property_Id>4</Property_Id>
+     <Description>Soluble in diethyl ether, acetone. Partially soluble in cold water. Soluble in ethanol. Solubility in Benzene: &gt; 10% Solubility in Water: 35,000 mg/l @ 20 deg. C; 42,900 mg/l @ 25 deg. C.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>243</Id>
+     <Chemical_Id>24</Chemical_Id>
+     <Property_Id>5</Property_Id>
+     <Description>MUTAGENIC EFFECTS: Mutagenic for bacteria and/or yeast. May cause damage to the following organs: liver, central</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>244</Id>
+     <Chemical_Id>24</Chemical_Id>
+     <Property_Id>6</Property_Id>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>245</Id>
+     <Chemical_Id>24</Chemical_Id>
+     <Property_Id>7</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>246</Id>
+     <Chemical_Id>24</Chemical_Id>
+     <Property_Id>8</Property_Id>
+     <Description>Mutagenic for bacteria and/or yeast.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>247</Id>
+     <Chemical_Id>24</Chemical_Id>
+     <Property_Id>9</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+   <ChemicalProperties>
+     <Id>248</Id>
+     <Chemical_Id>24</Chemical_Id>
+     <Property_Id>10</Property_Id>
+     <Description>Not available.</Description>
+   </ChemicalProperties>
+ </ArrayOfChemicalProperties>
+ <ArrayOfPropertty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <Propertty>
+     <Id>1</Id>
+     <Type>Potential Acute Health Effects</Type>
+   </Propertty>
+   <Propertty>
+     <Id>2</Id>
+     <Type>Potential Chronic Health Effects</Type>
+   </Propertty>
+   <Propertty>
+     <Id>3</Id>
+     <Type>pH (1% soln/water)</Type>
+   </Propertty>
+   <Propertty>
+     <Id>4</Id>
+     <Type>Solubility</Type>
+   </Propertty>
+   <Propertty>
+     <Id>5</Id>
+     <Type>Chronic Effects on Humans</Type>
+   </Propertty>
+   <Propertty>
+     <Id>6</Id>
+     <Type>Other Toxic Effects on Humans</Type>
+   </Propertty>
+   <Propertty>
+     <Id>7</Id>
+     <Type>CARCINOGENIC EFFECTS</Type>
+   </Propertty>
+   <Propertty>
+     <Id>8</Id>
+     <Type>MUTAGENIC EFFECTS</Type>
+   </Propertty>
+   <Propertty>
+     <Id>9</Id>
+     <Type>TERATOGENIC EFFECTS</Type>
+   </Propertty>
+   <Propertty>
+     <Id>10</Id>
+     <Type>DEVELOPMENTAL TOXICITY</Type>
+   </Propertty>
+   <Propertty>
+     <Id>12</Id>
+     <Type />
+   </Propertty>
+ </ArrayOfPropertty>
+ <ArrayOfHealthHazards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <HealthHazards>
+     <Value>-1</Value>
+     <Description>Not Available</Description>
+   </HealthHazards>
+   <HealthHazards>
+     <Value>0</Value>
+     <Description>There is no health hazard.</Description>
+   </HealthHazards>
+   <HealthHazards>
+     <Value>1</Value>
+     <Description>This substance could cause irritation.</Description>
+   </HealthHazards>
+   <HealthHazards>
+     <Value>2</Value>
+     <Description>This substance could cause temporary incapacitation.</Description>
+   </HealthHazards>
+   <HealthHazards>
+     <Value>3</Value>
+     <Description>This substance could cause serious temporary or irreversible injury.</Description>
+   </HealthHazards>
+   <HealthHazards>
+     <Value>4</Value>
+     <Description>This substance is a severe health risk if the substance is not handled safely and could cause death or irreversible injury.</Description>
+   </HealthHazards>
+ </ArrayOfHealthHazards>
+ <ArrayOfFireHazards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <FireHazards>
+     <Value>-1</Value>
+     <Description>Not Available</Description>
+   </FireHazards>
+   <FireHazards>
+     <Value>0</Value>
+     <Description>There is no fire hazard.</Description>
+   </FireHazards>
+   <FireHazards>
+     <Value>1</Value>
+     <Description>This substance must be preheated before ignition can occur.</Description>
+   </FireHazards>
+   <FireHazards>
+     <Value>2</Value>
+     <Description>This substance must be heated for ignition.</Description>
+   </FireHazards>
+   <FireHazards>
+     <Value>3</Value>
+     <Description>A flammable liquid or solid which can be readily ignited.</Description>
+   </FireHazards>
+   <FireHazards>
+     <Value>4</Value>
+     <Description>A flammable vapor or gas which burns readily.</Description>
+   </FireHazards>
+ </ArrayOfFireHazards>
+ <ArrayOfReactivityHazards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <ReactivityHazards>
+     <Value>-1</Value>
+     <Description>Not Available</Description>
+   </ReactivityHazards>
+   <ReactivityHazards>
+     <Value>0</Value>
+     <Description>This substance is stable.</Description>
+   </ReactivityHazards>
+   <ReactivityHazards>
+     <Value>1</Value>
+     <Description>This substance may become unstable at high temperatures.</Description>
+   </ReactivityHazards>
+   <ReactivityHazards>
+     <Value>2</Value>
+     <Description>This substance is readily capable of non-explosive reaction.</Description>
+   </ReactivityHazards>
+   <ReactivityHazards>
+     <Value>3</Value>
+     <Description>This substance may detonate when exposed to heat or an ignition source.</Description>
+   </ReactivityHazards>
+   <ReactivityHazards>
+     <Value>4</Value>
+     <Description>This substance is readily capable of detonation or explosive reaction.</Description>
+   </ReactivityHazards>
+ </ArrayOfReactivityHazards>
+ <ArrayOfSpecialHazards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <SpecialHazards>
+     <Value>-1</Value>
+     <Description>Not Available</Description>
+   </SpecialHazards>
+ </ArrayOfSpecialHazards>
+</ChemicalsData>

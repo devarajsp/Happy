@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy", "Happy\Happy.csproj", "{756953E9-61AE-4850-A755-75FE03887E26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{3A97A04E-6E1E-4973-8452-348CCA1414B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{F39015CF-5313-442D-9153-CE8E48312594}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Scripts\Deploy-AzureResourceGroup.ps1 = PublishScripts\Scripts\Deploy-AzureResourceGroup.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{EE64E06D-B91D-40BF-967F-937F5A5BD4BD}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Templates\Happy.json = PublishScripts\Templates\Happy.json
+		PublishScripts\Templates\Happy.param.dev.json = PublishScripts\Templates\Happy.param.dev.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyService", "HappyService\HappyService.csproj", "{9B60D4E0-9A9F-4B81-BF2A-E876B9FE22F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyCommon", "HappyCommon\HappyCommon.csproj", "{2DF85839-BC32-4C39-8FB8-0618610F435D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756953E9-61AE-4850-A755-75FE03887E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756953E9-61AE-4850-A755-75FE03887E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756953E9-61AE-4850-A755-75FE03887E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756953E9-61AE-4850-A755-75FE03887E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B60D4E0-9A9F-4B81-BF2A-E876B9FE22F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B60D4E0-9A9F-4B81-BF2A-E876B9FE22F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B60D4E0-9A9F-4B81-BF2A-E876B9FE22F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B60D4E0-9A9F-4B81-BF2A-E876B9FE22F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF85839-BC32-4C39-8FB8-0618610F435D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF85839-BC32-4C39-8FB8-0618610F435D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF85839-BC32-4C39-8FB8-0618610F435D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF85839-BC32-4C39-8FB8-0618610F435D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F39015CF-5313-442D-9153-CE8E48312594} = {3A97A04E-6E1E-4973-8452-348CCA1414B3}
+		{EE64E06D-B91D-40BF-967F-937F5A5BD4BD} = {3A97A04E-6E1E-4973-8452-348CCA1414B3}
+	EndGlobalSection
+EndGlobal

@@ -4,3 +4,8 @@ C:\Users\m1008643\Desktop\Happy\Happy_v0.1\apps\ChemSearch\ChemicalApp_Version1\
 C:\Users\m1008643\Desktop\Happy\Happy_v0.1\apps\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\obj\Debug\TechColaApp.dll
 C:\Users\m1008643\Desktop\Happy\Happy_v0.1\apps\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\obj\Debug\TechColaApp.pdb
 C:\Users\m1008643\Desktop\Happy\Happy_v0.1\apps\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\obj\Debug\Chemsearch.csprojResolveAssemblyReference.cache
+D:\repository\src\HappyServerSide\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\bin\TechColaApp.dll.config
+D:\repository\src\HappyServerSide\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\bin\TechColaApp.dll
+D:\repository\src\HappyServerSide\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\bin\TechColaApp.pdb
+D:\repository\src\HappyServerSide\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\obj\Debug\TechColaApp.dll
+D:\repository\src\HappyServerSide\ChemSearch\ChemicalApp_Version1\TechColaApp\TechColaApp\TechColaApp\obj\Debug\TechColaApp.pdb

@@ -94,6 +94,6 @@ D:\repository\src\HappyServerSide\Happy\Happy\bin\Microsoft.AI.Web.xml
 D:\repository\src\HappyServerSide\Happy\Happy\bin\Microsoft.AI.WindowsServer.xml
 D:\repository\src\HappyServerSide\Happy\Happy\bin\Microsoft.ApplicationInsights.xml
 D:\repository\src\HappyServerSide\Happy\Happy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\repository\src\HappyServerSide\Happy\Happy\obj\Release\Happy.csprojResolveAssemblyReference.cache
 D:\repository\src\HappyServerSide\Happy\Happy\obj\Release\Happy.dll
 D:\repository\src\HappyServerSide\Happy\Happy\obj\Release\Happy.pdb
+D:\repository\src\HappyServerSide\Happy\Happy\obj\Release\Happy.csprojResolveAssemblyReference.cache

@@ -136,6 +136,7 @@
     <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.woff" />
     <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.woff2" />
     <Content Include="Content\lib\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="Content\data\localapps.json" />
     <None Include="Properties\PublishProfiles\healthawarenessplatform.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

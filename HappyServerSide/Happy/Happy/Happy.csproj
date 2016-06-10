@@ -101,6 +101,7 @@
     <Content Include="Content\assets\images\5.jpg" />
     <Content Include="Content\assets\images\6.jpg" />
     <Content Include="Content\assets\images\7.jpg" />
+    <Content Include="Content\data\localapps.js" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -129,7 +130,6 @@
     <Content Include="Content\assets\fonts\fontawesome-webfont.woff" />
     <Content Include="Content\assets\fonts\fontawesome-webfont.woff2" />
     <Content Include="Content\assets\fonts\FontAwesome.otf" />
-    <Content Include="Content\data\localapps.json" />
     <Content Include="Content\lib\font-awesome\css\font-awesome.css.map" />
     <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.eot" />
     <Content Include="Content\lib\font-awesome\fonts\fontawesome-webfont.ttf" />

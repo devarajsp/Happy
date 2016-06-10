@@ -87,6 +87,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HappyAlertRepository.cs" />
     <Compile Include="HappyConfigManager.cs" />
     <Compile Include="HappyTweetsRepository.cs" />
     <Compile Include="MicroAppsRepository.cs" />

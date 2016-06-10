@@ -136,6 +136,7 @@
   <ItemGroup>
     <Compile Include="App_Start\SwaggerConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AlertsController.cs" />
     <Compile Include="Controllers\HappyTweetsController.cs" />
     <Compile Include="Controllers\MicroAppsController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />

@@ -6,3 +6,5 @@ var localappslist = '[' +
    '{"menuName":"Gynic FAQ", "menuHref":"http://www.whallc.com/for-patients/frequently-asked-questions.aspx", "colorStyleText": "color-7", "menuSize":"big", "faIconText":"fa-child", "styleText":"null", "menuColumn":"2", "roleTags":["yf","af", "sf"], "locationTags":["all"] , "ailmentTags":["diabetes", "cancer"]   },' +
    '{"menuName":"Health History", "menuHref":"http://google.com", "colorStyleText": "color-8", "menuSize":"small", "faIconText":"fa-hospital", "styleText":"null", "menuColumn":"3", "roleTags":["male","female","children","pregnant"], "locationTags":["all"] , "ailmentTags":["diabetes", "cancer"]   }' +
          ']';
+
+//   '{"menuName":"NASSCOM Health Plan", "menuHref":"http://product.nasscom.in/techie-health-plan.php", "colorStyleText": "color-7", "menuSize":"big", "faIconText":"fa-child", "styleText":"null", "menuColumn":"2", "roleTags":["ym","am", "sm"], "locationTags":["all"] , "ailmentTags":["diabetes", "cancer"]   },' +

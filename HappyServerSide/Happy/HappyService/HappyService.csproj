@@ -138,6 +138,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AlertsController.cs" />
     <Compile Include="Controllers\HappyTweetsController.cs" />
+    <Compile Include="Controllers\HAQDetailsController.cs" />
     <Compile Include="Controllers\MicroAppsController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">

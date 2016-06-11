@@ -2,6 +2,7 @@ questionnumber=1;
 totalquestion=15;
 correctanswers=0;
 counter=1;
+totalCount=0;
 
 
 /******Prevent inspect element*******/
@@ -19,7 +20,8 @@ $(document).keydown(function(e){
 
 
 /**********/
-
+var resultQuiz= [];
+var Topic , resultBollean, Correct_Wrong =false;
  var images = ["bg1.jpg", "bg2.jpg", "bg3.jpg", "bg4.jpg","bg5.jpg","bg6.jpg","bg7.jpg"];
         $(function () {
             var i = 0;
@@ -36,18 +38,20 @@ $(document).keydown(function(e){
             }, 5000);
         });
 
-function showsmiley(t){
-	
-	//alert(t.name);
+function showsmiley(t,quizname){
+	Topic= quizname;
+
+	//alert("t.id"+quizname);
 	var GetId=t.id.split("_");
 	var smileyID=GetId[0]+"_"+GetId[1]+"_img";
-	//alert(GetId[0])	;
+	//alert("t.dg="+t.id)	;
 	if(GetId[2]=='correct'){
-	
+	    Correct_Wrong =true;
 		$("#"+t.id).css("background-color","#009688");
 		correctanswers++;
 	}
 	if(GetId[2]=='wrong'){
+	    Correct_Wrong =false;
 		var elements = document.getElementsByName( GetId[0]+"_correct" );
 		var correctoptionid = elements[0].getAttribute( 'id' );
 		//alert(id);
@@ -66,7 +70,32 @@ function reloadpage(){
 	location.reload();
 }
 function next(){
-	
+//alert("next");
+resultQuiz.push({
+                    "Name": "Guest!..",
+                    "HATopic": Topic,
+                    "Result":Correct_Wrong,
+                     });
+totalCount++;
+if(totalCount==totalquestion){
+//alert(totalCount);
+var gh=JSON.stringify(resultQuiz);
+
+    $.ajax({
+                   type: "POST",
+                   contentType: "application/json",
+                   url: "http://happyservice.azurewebsites.net/api/HAQDetails/InsertHAQDetailsList",
+                   data:JSON.stringify(resultQuiz),
+                   success: function (response) {
+                      //  alert("Success");
+
+                   },
+                   dataType: "json"//set to JSON
+               });
+             //  alert("ajax done");
+}
+
+
 	$("#Q"+questionnumber).slideUp( "slow" );
 	$("#Q"+(questionnumber+1)).slideDown( "slow" );
 	questionnumber++;
@@ -75,7 +104,7 @@ function next(){
 		$("#scorediv").slideDown( "slow" );
 		$("#refreshicon").css("display","none");
 		if(correctanswers==totalquestion){
-			
+			//alert("Done");
 			$(".resultsmileey").css("display","none");
 			$("#awesome").css("display","block");
 			$("#score").text( "Perfect Score "+correctanswers+" out of "+totalquestion+"..!!" );
@@ -97,4 +126,6 @@ function next(){
 		}
 		
 	}
+
+
 }

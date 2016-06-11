@@ -90,6 +90,7 @@
     <Compile Include="HappyAlertRepository.cs" />
     <Compile Include="HappyConfigManager.cs" />
     <Compile Include="HappyTweetsRepository.cs" />
+    <Compile Include="HAQDetails.cs" />
     <Compile Include="MicroAppsRepository.cs" />
     <Compile Include="IConfigManager.cs" />
     <Compile Include="IRepository.cs" />
